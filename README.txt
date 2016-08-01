@@ -1,10 +1,10 @@
 # 204Boom
-2048 like game with bombs, written in C
+2048 like game with bombs, written in C. It was a school project so I do not own the idea of the game.
 
 The game is to be compiled using any C compiler, then played inside your favorite terminal!
 
 This is a simple game were the goal is to make the biggest number you can, in order to reach the goal you have set yourself. Here is an exemple :
-    If you press Q, to go left, the two one's will be attracted to the left, and fuse to make a 2!'''
+    If you press Q, to go left, the two one's will be attracted to the left, and fuse to make a 2!
     Before :                 After :
            <--						
     |---|---|---|---|       |---|---|---|---|
@@ -12,7 +12,7 @@ This is a simple game were the goal is to make the biggest number you can, in or
     |---|---|---|---|       |---|---|---|---|
       1   2   3   4           1   2   3   4  
      ---------------         ---------------
-'''
+
 You control the direction of attraction with Z,Q,S,D and have to confirm evry choice before they take effect.
 
 If the grid is full and the move you choose is not possible, you will lose the game !
